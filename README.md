@@ -10,6 +10,7 @@
 - 🏠 Ask me about: house construction (planner, materials, finish line, components), cooking: bananas pie, carrot cake.
 - 🏢 Ask me about: Excel (sheets, functions, graphics, commands, pivot table, macro, vba)
 - 🥁 Past fun facts: rock band drummer, gospel band drummer, mobyla, roller, bike.
+- Actually: "My fitness routine includes cardio and strength training."
 
 ### Current stack
 - Main language: `Javascript`
