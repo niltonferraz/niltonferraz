@@ -52,6 +52,7 @@ Strong experience in Web Automation using Cypress and Selenium, API testing, and
 ---
 
 ### 💻 Programming & Automation
+- Java
 - JavaScript  
 - Node.js  
 - Test Framework Structure  
